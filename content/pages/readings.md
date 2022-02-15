@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c3c52d2c-b91d-6cd6-c797-daec95f435bf
 ---
@@ -41,7 +44,7 @@ No readings assigned
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The Roots of Contemporary Gender Debates: The 19th Century American Women's Rights Movement
+The Roots of Contemporary Gender Debates: The 19{{< sup "th" >}} Century American Women's Rights Movement
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -153,7 +156,7 @@ Smith-Rosenberg, Carroll. "The Hysterical Woman: Sex Roles and Role Conflict in 
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Resistance or Illness?: Discourses of Women, Medicine and Madness in 19th Century America and Beyond
+Resistance or Illness?: Discourses of Women, Medicine and Madness in 19{{< sup "th" >}} Century America and Beyond
 {{< tdclose >}}
 {{< tdopen >}}
 

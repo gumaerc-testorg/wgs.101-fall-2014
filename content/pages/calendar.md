@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 7bacf7f5-ad35-a7ff-c20b-fa5f19cb1875
 ---
@@ -48,7 +50,7 @@ Distribute:
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The Roots of Contemporary Gender Debates: The 19th Century American Women's Rights Movement
+The Roots of Contemporary Gender Debates: The 19{{< sup "th" >}} Century American Women's Rights Movement
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -170,7 +172,7 @@ Due:
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Resistance or Illness?: Discourses of Women, Medicine and Madness in 19th Century America and Beyond
+Resistance or Illness?: Discourses of Women, Medicine and Madness in 19{{< sup "th" >}} Century America and Beyond
 {{< tdclose >}}
 {{< tdopen >}}
 Due: Homework 6

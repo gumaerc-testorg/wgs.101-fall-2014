@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 486f0753-5964-39ee-3770-420f14586cd1
 ---
@@ -57,20 +59,6 @@ None
 ### Offered
 
 Every spring and fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A small, multi-row room with blackboards on two sides.]({{< resource_file 1cddc2dc-9535-24f3-6540-5712a28ca578 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Students are regularly asked to engage in group discussions during each class session. During Fall 2014, the class was held in a room with moveable tables and chairs.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
