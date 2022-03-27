@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c3c52d2c-b91d-6cd6-c797-daec95f435bf
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Our Costume'
 uid: ecea31b1-1b19-afa9-441d-92aaecbf220c

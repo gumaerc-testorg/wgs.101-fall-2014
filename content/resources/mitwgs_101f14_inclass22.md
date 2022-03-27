@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: In-Class Writings
 parent_type: CourseSection
+parent_uid: 1677945a-0bc0-7f43-1aac-25e19722c7d0
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Class 22 Writing'
 uid: fff9d0dd-a2c7-0416-664e-2dbe57710ee8

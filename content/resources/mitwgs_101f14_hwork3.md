@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b7af93a7-cfda-9224-0541-d3559584db59
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 3 Our Costume'
 uid: 1794e51a-2f4f-159c-7af2-e9da6f481aeb

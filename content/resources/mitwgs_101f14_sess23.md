@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Outlines
 parent_type: CourseSection
+parent_uid: eb142767-373a-72c3-6cfd-a370aabd9623
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Session 23 Lecture Outline'
 uid: b16d5766-688e-5fce-6d84-b7cd39d56da8

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 7bacf7f5-ad35-a7ff-c20b-fa5f19cb1875
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: CourseInfoSheet'
 uid: 4bdca4a5-4bc9-ed06-7e0d-68d93552142d

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 486f0753-5964-39ee-3770-420f14586cd1
 resourcetype: Image
 title: WGS-101J_classroom-1.jpg
 uid: 1cddc2dc-9535-24f3-6540-5712a28ca578

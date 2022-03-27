@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 7bacf7f5-ad35-a7ff-c20b-fa5f19cb1875
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Love and Gold'
 uid: bcbe0505-4864-6870-0f96-94c7d80f425b
