@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, objectives, requirements, grading, assignments,
+  writing and communication resources, and the policy on academic integrity.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -55,7 +58,7 @@ Gilman, Charlotte Perkins. [_The Yellow Wallpaper_](http://web.archive.org/web/2
 
 Schneir, Miriam, ed. _Feminism in Our Time: The Essential Writings, World War II to the Present_. Vintage Books, 1994. ISBN: 9780679745082.
 
-For further detail on these and additional readings, see the table in the [Readings]({{< baseurl >}}/pages/readings) section.
+For further detail on these and additional readings, see the table in the {{% resource_link c3c52d2c-b91d-6cd6-c797-daec95f435bf "Readings" %}} section.
 
 Course Requirements
 -------------------

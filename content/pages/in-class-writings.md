@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the in-class writing assignments for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: In-Class Writings
@@ -28,7 +29,7 @@ IN-CLASS WRITING TOPICS
 {{< tdopen >}}
 
 
-[The MIT Seal Controversy (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass1)
+{{% resource_link 1c5879e1-0b4a-9f4c-67c0-a48d56ab72b4 "The MIT Seal Controversy (PDF)" %}}
 
 _Information about the MIT seal:_  
 [Seal of the Massachusetts Institute of Technology](http://libraries.mit.edu/mithistory/institute/seal-of-the-massachusetts-institute-of-technology/), MIT Libraries Archives.
@@ -42,7 +43,7 @@ _Information about the MIT seal:_
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[The Emergence of Movements for Gender Equality (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass2)
+{{% resource_link 68863413-9fb0-4886-b279-d68d8d44379e "The Emergence of Movements for Gender Equality (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +52,7 @@ _Information about the MIT seal:_
 3
 {{< tdclose >}}
 {{< tdopen >}}
-["The Declaration of Sentiments and Resolutions" (1848) (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass3)
+{{% resource_link ce62ae05-80fc-740b-acc3-f32300799f62 "\"The Declaration of Sentiments and Resolutions\" (1848) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +61,7 @@ _Information about the MIT seal:_
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Lucy Stone (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass4)
+{{% resource_link c0cbcab7-8d77-3a3b-5118-37619eae8f5c "Lucy Stone (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ _Information about the MIT seal:_
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Frederick Douglass' "Why I Became a 'Woman's Rights' Man" (1892) (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass5)
+{{% resource_link ae2e9d29-7bde-7605-899f-a9fcc24d0efa "Frederick Douglass' \"Why I Became a 'Woman's Rights' Man\" (1892) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +79,7 @@ _Information about the MIT seal:_
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Carroll Smith-Rosenberg Statement (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass7)
+{{% resource_link 1130e912-6f3a-c2bb-5ecd-6cc6a532d1f3 "Carroll Smith-Rosenberg Statement (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +88,7 @@ _Information about the MIT seal:_
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Betty Friedan's _The Feminine Mystique_ (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass10)
+{{% resource_link ef1fa61d-cf17-10b9-4744-a29e0d33ec49 "Betty Friedan's _The Feminine Mystique_ (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +97,7 @@ _Information about the MIT seal:_
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[The NOW's "Statement of Purpose" (1966) and "The Declaration of Sentiments and Resolutions" (1848) (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass11)
+{{% resource_link 8d6f3b09-d4de-9db1-569b-56df09cc4e25 "The NOW's \"Statement of Purpose\" (1966) and \"The Declaration of Sentiments and Resolutions\" (1848) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +106,7 @@ _Information about the MIT seal:_
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Reasons for the Gendered Wage Gap (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass13)
+{{% resource_link 0a139e8b-6763-4f99-ceee-68cb95c5ce5b "Reasons for the Gendered Wage Gap (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +115,7 @@ _Information about the MIT seal:_
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Moving Beyond Gender – Official Documents and College Admissions (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass14)
+{{% resource_link 36da9262-ac10-10e3-a8d8-d12dec334139 "Moving Beyond Gender – Official Documents and College Admissions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,9 +126,9 @@ _Information about the MIT seal:_
 {{< tdopen >}}
 
 
-[Factors Enabling Gay and Lesbian Rights to Emerge and Thrive (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass18a)
+{{% resource_link 332f3b01-7cd5-b36a-4114-05a47134fa85 "Factors Enabling Gay and Lesbian Rights to Emerge and Thrive (PDF)" %}}
 
-[The 2003 Goodridge Decision (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass18b)
+{{% resource_link a972c501-c3a4-ae9b-5e16-544d42fc0efc "The 2003 Goodridge Decision (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -138,7 +139,7 @@ _Information about the MIT seal:_
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Affirmative Action and Gender Equality (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass22)
+{{% resource_link fff9d0dd-a2c7-0416-664e-2dbe57710ee8 "Affirmative Action and Gender Equality (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +148,7 @@ _Information about the MIT seal:_
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Nicholas D. Kristof's "Where Sweatshops Are a Dream" (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass24)
+{{% resource_link 91beb7d7-0417-3d0d-6ea6-5cfe18b1a122 "Nicholas D. Kristof's \"Where Sweatshops Are a Dream\" (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +157,7 @@ _Information about the MIT seal:_
 25
 {{< tdclose >}}
 {{< tdopen >}}
-[Susan Moller Okin's "Is Multiculturalism Bad for Women?" (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_inclass25)
+{{% resource_link 006c8f33-516b-aa5e-fa53-b60be23cec7e "Susan Moller Okin's \"Is Multiculturalism Bad for Women?\" (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +166,7 @@ _Information about the MIT seal:_
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[End of Term Reflections (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_reflections)
+{{% resource_link 0ce88d12-c4ff-8bcf-977d-d2431a85f75d "End of Term Reflections (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

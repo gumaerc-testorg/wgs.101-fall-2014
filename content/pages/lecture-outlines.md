@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides lecture outlines and the schedule of course topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -43,7 +44,7 @@ No lecture outline available
 The Roots of Contemporary Gender Debates: The 19{{< sup "th" >}} Century American Women's Rights Movement
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 2 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess2)
+{{% resource_link 49011611-bc60-37d7-9ffe-8ed038d6c451 "Session 2 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +56,7 @@ The Roots of Contemporary Gender Debates: The 19{{< sup "th" >}} Century America
 Interpreting Classic American Women's Rights Documents: Seneca Falls Convention and "The Declaration of Sentiments" (1848)
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 3 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess3)
+{{% resource_link 9d5c93f3-9949-0e0e-b57a-ada80e7e91bf "Session 3 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Interpreting Classic American Women's Rights Documents: Seneca Falls Convention 
 Interpreting Classic American Women's Rights Documents: Seneca Falls Convention and "The Declaration of Sentiments" (1848) (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 4 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess4)
+{{% resource_link 67fea253-63d8-9cd1-9e98-e6ee3389de55 "Session 4 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +86,7 @@ Gender, Race and Suffrage
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 5 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess5)
+{{% resource_link 8a80b9ab-5858-bdb2-478f-d559a41d75a9 "Session 5 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ Gender, Race and Suffrage
 Gender, Race and Suffrage (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 6 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess6)
+{{% resource_link 73e89a9e-2b1f-0176-1bc9-000eb1275f4c "Session 6 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +110,7 @@ Gender, Race and Suffrage (cont.)
 Gender, Race and Suffrage (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 7 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess7)
+{{% resource_link 07a434cc-2a47-8ae5-2220-01340fc29234 "Session 7 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +122,7 @@ Gender, Race and Suffrage (cont.)
 Resistance or Illness?: Discourses of Women, Medicine and Madness in 19{{< sup "th" >}} Century America and Beyond
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 8 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess8)
+{{% resource_link 2e67d1ea-b931-3340-fd0d-ab6fda29fd7d "Session 8 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +134,7 @@ Resistance or Illness?: Discourses of Women, Medicine and Madness in 19{{< sup "
 The Life and Times of Rosie the Riveter
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 9 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess9)
+{{% resource_link 1036e4c2-bdb4-2dc5-9f93-eecd7f43efb0 "Session 9 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +146,7 @@ The Life and Times of Rosie the Riveter
 Beyond Suffrage: The Roots of the Second Wave of the American Women's Rights Movement: World War II and Postwar Era
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 10 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess10)
+{{% resource_link 9ed7a080-3b94-ebe3-ecc0-5a081d9bc5b2 "Session 10 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +158,7 @@ Beyond Suffrage: The Roots of the Second Wave of the American Women's Rights Mov
 Beyond Suffrage: The Roots of the Second Wave of the American Women's Rights Movement: World War II and Postwar Era (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 11 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess11)
+{{% resource_link 91eb2611-ec14-b5aa-a6ce-1f3c79fbac2f "Session 11 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +170,7 @@ Beyond Suffrage: The Roots of the Second Wave of the American Women's Rights Mov
 The Second Wave of Women's Rights Activism (1963-present)
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 12 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess12)
+{{% resource_link 5d0c3492-1504-b1e9-599a-caa50b58bd0b "Session 12 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +182,7 @@ The Second Wave of Women's Rights Activism (1963-present)
 The Second Wave of Women's Rights Activism (1963-present) (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 13 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess13)
+{{% resource_link 76eab2e6-58a4-1dec-829d-99706e8c0a01 "Session 13 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +194,7 @@ The Second Wave of Women's Rights Activism (1963-present) (cont.)
 Socialization and Gender Roles; Conceptualizing the Meaning of Biological Differences
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 14 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess14)
+{{% resource_link 1b857dac-01d6-3bd1-fea7-a718512e0c07 "Session 14 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +206,7 @@ Socialization and Gender Roles; Conceptualizing the Meaning of Biological Differ
 Socialization: Race, Ethnicity, Nationality and Gender Roles; Gender and Education
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 15 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess15)
+{{% resource_link 9df8d3f0-53bd-5c5b-f98e-6bc8421e7b87 "Session 15 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +218,7 @@ Socialization: Race, Ethnicity, Nationality and Gender Roles; Gender and Educati
 Representation of Gender in Advertising and Popular Visual Media
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 16 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess16)
+{{% resource_link 87e63e4d-118e-1cf9-eb7b-8ed70c2ed03d "Session 16 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +230,7 @@ Representation of Gender in Advertising and Popular Visual Media
 Representation of Gender in Advertising and Popular Visual Media (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 17 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess17)
+{{% resource_link 00997672-17f1-73fc-3269-b10efb16adde "Session 17 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +242,7 @@ Representation of Gender in Advertising and Popular Visual Media (cont.)
 Sexualities and Gender; The Right to Marriage
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 18 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess18)
+{{% resource_link f9f5f92a-201b-5b9f-a96c-d6a1c15ca14d "Session 18 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -253,7 +254,7 @@ Sexualities and Gender; The Right to Marriage
 Crossing Gender Boundaries
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 19 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess19)
+{{% resource_link 34a0f4d1-9357-b9ab-9090-144b3953348b "Session 19 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +266,7 @@ Crossing Gender Boundaries
 Perspectives on Transgender
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 20 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess20)
+{{% resource_link c02f273f-cbc7-6e9b-f38a-7e7317ff2904 "Session 20 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,7 +278,7 @@ Perspectives on Transgender
 Sexuality, Contraception and Reproductive Choice
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 21 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess21)
+{{% resource_link 0aba6846-51ab-5fd9-996d-668d9330e4fe "Session 21 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -289,7 +290,7 @@ Sexuality, Contraception and Reproductive Choice
 Gender and Work
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 22 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess22)
+{{% resource_link e42e3c2d-0ebd-052e-c025-d8f4ab4e37e8 "Session 22 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,7 +302,7 @@ Gender and Work
 Gender and Work (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 23 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess23)
+{{% resource_link b16d5766-688e-5fce-6d84-b7cd39d56da8 "Session 23 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -313,7 +314,7 @@ Gender and Work (cont.)
 Gender and Work: Global Dimensions
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 24 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess24)
+{{% resource_link 3c4b9daa-d507-214b-e4b1-7593490f46b1 "Session 24 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -325,7 +326,7 @@ Gender and Work: Global Dimensions
 Gender and Work: Global Dimensions (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 25 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess25)
+{{% resource_link fa00e78d-11a2-b9c3-97d8-2ad62b216d19 "Session 25 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -337,7 +338,7 @@ Gender and Work: Global Dimensions (cont.)
 Global Issues: Contemporary Gender Equality Issues and Movements; Course Wrap-Up
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 26 Outline (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_sess26)
+{{% resource_link e37abeca-2923-c432-d051-e8a260d02c55 "Session 26 Outline (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
