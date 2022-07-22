@@ -5,6 +5,7 @@ file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/e42e3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Outlines
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'WGS.101 Introduction to Women''s and Gender Studies: Session 22 Lecture 
 uid: e42e3c2d-0ebd-052e-c025-d8f4ab4e37e8
 ---
 This resource contains information related to Gender and Work.
-

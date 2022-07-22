@@ -5,6 +5,7 @@ file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/9be48
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 13 Workpla
 uid: 9be48894-d0f7-d7f5-f3a5-bec9fb8f5f8d
 ---
 This resource contains information related to gender and work.
-

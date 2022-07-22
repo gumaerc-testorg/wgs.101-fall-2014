@@ -6,6 +6,7 @@ file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/49011
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Outlines
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'WGS.101 Introduction to Women''s and Gender Studies: Session 2 Lecture O
 uid: 49011611-bc60-37d7-9ffe-8ed038d6c451
 ---
 This resource contains information related to the roots of contemporary fender debates: the 19th century american women’s rights movement.
-

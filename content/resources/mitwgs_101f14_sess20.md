@@ -5,6 +5,7 @@ file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/c02f2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Outlines
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'WGS.101 Introduction to Women''s and Gender Studies: Session 20 Lecture 
 uid: c02f273f-cbc7-6e9b-f38a-7e7317ff2904
 ---
 This resource contains information related to perspectives on transgender.
-

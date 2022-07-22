@@ -6,6 +6,7 @@ file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/2e67d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Outlines
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'WGS.101 Introduction to Women''s and Gender Studies: Session 8 Lecture O
 uid: 2e67d1ea-b931-3340-fd0d-ab6fda29fd7d
 ---
 This resource contains information related to resistance or illness?: discourses of women, medicine and madness in 19th century america and beyond.
-

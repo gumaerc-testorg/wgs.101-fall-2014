@@ -6,6 +6,7 @@ file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/d39b6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 2 Declarat
 uid: d39b67f6-f157-b5b1-71ec-17876eef97fd
 ---
 This resource contains information related to the roots of contemporary gender debates: the 19th century American women's rights movement.
-

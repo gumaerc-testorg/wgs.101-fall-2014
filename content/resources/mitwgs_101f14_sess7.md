@@ -6,6 +6,7 @@ file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/07a43
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Outlines
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'WGS.101 Introduction to Women''s and Gender Studies: Session 7 Lecture O
 uid: 07a434cc-2a47-8ae5-2220-01340fc29234
 ---
 This resource contains information related to gender, race and suffrage (cont.).
-

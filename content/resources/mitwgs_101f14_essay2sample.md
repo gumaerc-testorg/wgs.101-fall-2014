@@ -6,6 +6,7 @@ file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/432d2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'WGS.101 Introduction to Women''s and Gender Studies: Essay 2 Sample Outl
 uid: 432d2af9-368d-a813-abc7-4114f1309390
 ---
 This resource contains information related to socialization and gender roles; conceptualizing the meaning of biological differences.
-

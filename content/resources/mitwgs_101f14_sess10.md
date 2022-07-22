@@ -7,6 +7,7 @@ file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/9ed7a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Outlines
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'WGS.101 Introduction to Women''s and Gender Studies: Session 10 Lecture 
 uid: 9ed7a080-3b94-ebe3-ecc0-5a081d9bc5b2
 ---
 This resource contains information related to beyond suffrage: the roots of the second wave of the american women’s rights movement: world war II and postwar era. 
-

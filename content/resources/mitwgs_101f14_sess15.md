@@ -6,6 +6,7 @@ file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/9df8d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Outlines
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'WGS.101 Introduction to Women''s and Gender Studies: Session 15 Lecture 
 uid: 9df8d3f0-53bd-5c5b-f98e-6bc8421e7b87
 ---
 This resource contains information related to socialization: race, ethnicity, nationality and gender roles; gender and education.
-

@@ -7,6 +7,7 @@ file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/8a80b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Outlines
 parent_type: CourseSection
@@ -17,5 +18,3 @@ uid: 8a80b9ab-5858-bdb2-478f-d559a41d75a9
 ---
 This resource contains information related to strategies for gender change: “direct action voting”/civil disobedience; 
 gender, race and suffrage.
-
-

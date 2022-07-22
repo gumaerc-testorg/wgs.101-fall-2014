@@ -5,6 +5,7 @@ file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/d072c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 12 Ma Vie 
 uid: d072cd5d-3114-d273-c6d9-34af4223eeab
 ---
 This resource contains information related to crossing gender boundaries.
-

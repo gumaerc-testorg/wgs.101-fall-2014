@@ -7,6 +7,7 @@ file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/67fea
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Outlines
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'WGS.101 Introduction to Women''s and Gender Studies: Session 4 Lecture O
 uid: 67fea253-63d8-9cd1-9e98-e6ee3389de55
 ---
 This resource contains information related to interpreting classic american women’s rights documents: seneca falls convention and “the declaration of sentiments” (1848) (cont.).
-

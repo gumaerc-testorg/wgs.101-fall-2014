@@ -6,6 +6,7 @@ file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/1794e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 3 Our Cost
 uid: 1794e51a-2f4f-159c-7af2-e9da6f481aeb
 ---
 This resource contains information related to interpreting classic american women's rights documents: seneca falls convention and "the declaration of sentiments"(1848).
-
