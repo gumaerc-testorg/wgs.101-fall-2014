@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides instructions for the first essay assignment of
+  the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b7af93a7-cfda-9224-0541-d3559584db59
 title: Essay 1
 uid: f50914a3-6a73-4ff4-a4e9-3c7650c7d952

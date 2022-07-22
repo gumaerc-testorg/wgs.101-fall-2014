@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides citations and links to the readings assigned for
+  each session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c3c52d2c-b91d-6cd6-c797-daec95f435bf
 ---
@@ -41,7 +46,7 @@ No readings assigned
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The Roots of Contemporary Gender Debates: The 19th Century American Women's Rights Movement
+The Roots of Contemporary Gender Debates: The 19{{< sup "th" >}} Century American Women's Rights Movement
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -72,7 +77,7 @@ Stanton, Elizabeth Cady. "[Declaration of Sentiments](https://www.nps.gov/wori/l
 
 Stone, Lucy, and Henry Blackwell. "[Marriage Agreement](http://womenshistory.about.com/library/etext/bl_marriage_stone_blackwell.htm)." 1855.
 
-Stanton, Elizabeth Cady. ["Our Costume." (PDF)]({{< baseurl >}}/resources/mitwgs_101f14_ourcostume). _The Lily_ 4 (1851): 31.
+Stanton, Elizabeth Cady. {{% resource_link ecea31b1-1b19-afa9-441d-92aaecbf220c "\"Our Costume.\" (PDF)" %}}. _The Lily_ 4 (1851): 31.
 
 ———. "[The Solitude of Self](https://finallyfeminism101.wordpress.com/2007/06/21/elizabeth-cady-stanton-the-solitude-of-self-1892/)." _Woman's Journal_, January 23, 1892.
 
@@ -153,7 +158,7 @@ Smith-Rosenberg, Carroll. "The Hysterical Woman: Sex Roles and Role Conflict in 
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Resistance or Illness?: Discourses of Women, Medicine and Madness in 19th Century America and Beyond
+Resistance or Illness?: Discourses of Women, Medicine and Madness in 19{{< sup "th" >}} Century America and Beyond
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -398,7 +403,7 @@ Wilchins, Riki. "17 Things You DON'T Say to a Transsexual." In _Read My Lips: Se
 
 ———. "What Does it Cost to Tell the Truth?" In _Read My Lips: Sexual Subversion and the End of Gender_. Riverdale Avenue Books, 2013. ISBN: 9781936833641.
 
-Franke, Katherine. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Legal Aspects of Sex Reassignment Surgery," (PDF)](http://www2.law.columbia.edu/faculty_franke/Gubbio%20Recent.pdf) Columbia University School of Law.
+Franke, Katherine. ["Legal Aspects of Sex Reassignment Surgery," (PDF)](http://www2.law.columbia.edu/faculty_franke/Gubbio%20Recent.pdf) Columbia University School of Law.
 
 
 {{< tdclose >}}
@@ -484,7 +489,7 @@ Enloe, Cynthia. "The Globetrotting Sneaker." In _The Curious Feminist: Searching
 
 Pinsky, Robert. "[Shirt](http://www.ibiblio.org/ipa/poems/pinsky/shirt.php)," Internet Poetry Archive.
 
-Reagon, Bernice Johnson. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Are My Hands Clean?," (PDF)](http://collegeofsanmateo.edu/integrativelearning/learningcommunities/commons/James/AreMyHandsClean.pdf) College of San Mateo.
+Reagon, Bernice Johnson. ["Are My Hands Clean?," (PDF)](http://collegeofsanmateo.edu/integrativelearning/learningcommunities/commons/James/AreMyHandsClean.pdf) College of San Mateo.
 
 ### To Listen to the Bernice Johnson Reagon Composition
 
