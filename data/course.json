@@ -38,8 +38,10 @@
     "website": "wgs-101-introduction-to-womens-and-gender-studies-fall-2014"
   },
   "learning_resource_types": [
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "7cd3a936-0fb2-49bf-9d41-619be3e400e3",
+  "site_uid": "b4f5515d-9e80-46f2-98e4-4e70ec0f9068",
+  "site_short_id": "wgs.101-fall-2014",
   "title": "Course Metadata"
 }

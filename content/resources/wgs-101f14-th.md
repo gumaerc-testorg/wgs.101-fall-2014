@@ -33,4 +33,3 @@ video_metadata:
   youtube_id: ''
 ---
 "When Women Pursue Justice" is a mural in Bedford-Stuyvesant, Brooklyn, New York, that portrays 90 American female activists of the 19th and 20th centuries. Women portrayed in the mural include Harriet Tubman, Susan B. Anthony, Eleanor Roosevelt, Angela Davis, and Gloria Steinem, among others. Image courtesy of [Artmakers, Inc.](http://artmakersnyc.org/) Used with permission.
-
