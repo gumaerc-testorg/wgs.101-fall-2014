@@ -32,7 +32,7 @@ IN-CLASS WRITING TOPICS
 {{% resource_link 1c5879e1-0b4a-9f4c-67c0-a48d56ab72b4 "The MIT Seal Controversy (PDF)" %}}
 
 _Information about the MIT seal:_  
-[Seal of the Massachusetts Institute of Technology](http://libraries.mit.edu/mithistory/institute/seal-of-the-massachusetts-institute-of-technology/), MIT Libraries Archives.
+{{% resource_link "b474421d-2f2e-4d75-9dc7-e4015c69f7b7" "Seal of the Massachusetts Institute of Technology" %}}, MIT Libraries Archives.
 
 
 {{< tdclose >}}

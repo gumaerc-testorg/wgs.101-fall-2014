@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Calendar
 uid: 7bacf7f5-ad35-a7ff-c20b-fa5f19cb1875
 ---
-For further detail on the various assignments listed in the Key Dates column, please see the {{% resource_link b7af93a7-cfda-9224-0541-d3559584db59 "Assignments" %}} section.
+For further detail on the various assignments listed in the Key Dates column, please see the {{% resource_link "b7af93a7-cfda-9224-0541-d3559584db59" "Assignments" %}} section.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -26,7 +26,7 @@ Distribute:
 
 - Syllabus
 - Course calendar
-- {{% resource_link 4bdca4a5-4bc9-ed06-7e0d-68d93552142d "Course Information Sheet (PDF)" %}}
+- {{% resource_link "4bdca4a5-4bc9-ed06-7e0d-68d93552142d" "Course Information Sheet (PDF)" %}}
 - Homework 1 on Grimke
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -86,17 +86,17 @@ Due: Homework 4
 
 Gender, Race and Suffrage (cont.)
 
-Screening: [_Ida B. Wells: A Passion for Justice_](http://newsreel.org/video/IDA-B-WELLS)
+Screening: {{% resource_link "c63484c6-9e6b-425f-bf70-518739a421b3" "*Ida B. Wells: A Passion for Justice*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
-Distribute: Homework 5 on _Ida B. Wells: A Passion for Justice_
+Distribute: Homework 5 on *Ida B. Wells: A Passion for Justice*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 Gender, Race and Suffrage (cont.)
 {{< tdclose >}}{{< tdopen >}}
 
-Distribute: Homework 6 on _The Yellow Wallpaper_
+Distribute: Homework 6 on *The Yellow Wallpaper*
 
 Due:
 
@@ -112,10 +112,10 @@ Due: Homework 6
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Screening: [_The Life and Times of Rosie the Riveter_](http://www.clarityfilms.org/rosie/index.php)
+Screening: {{% resource_link "93f4f5e8-a342-42d9-bfd5-c109c84c4536" "*The Life and Times of Rosie the Riveter*" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-Distribute: Homework 7 on Friedan and _The Life and Times of Rosie the River_
+Distribute: Homework 7 on Friedan and *The Life and Times of Rosie the River*
 
 Due: Essay 1, Version 1 + cover letter
 
@@ -128,7 +128,7 @@ Beyond Suffrage: The Roots of the Second Wave of the American Women's Rights Mov
 Distribute:
 
 - Homework 8 on feminism
-- [Maslow's Hierarchy of Needs](http://www.businessballs.com/images/maslow_hierarchy.htm)
+- {{% resource_link "7ace599b-6102-49de-8842-8faaa2156f30" "Maslow's Hierarchy of Needs" %}}
 
 Due: Homework 7
 
@@ -144,10 +144,10 @@ Due: Homework 8
 
 The Second Wave of Women's Rights Activism (1963-present)
 
-Screening: [_Sisters of '77_](http://www.pbs.org/independentlens/sistersof77/)
+Screening: {{% resource_link "136509b4-5735-4115-b92f-26bdb1349f79" "*Sisters of '77*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
-Distribute: Homework 9 on _Sisters of '77_
+Distribute: Homework 9 on *Sisters of '77*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
@@ -188,7 +188,7 @@ No assignments distributed or due
 
 Representation of Gender in Advertising and Popular Visual Media
 
-Screening: [_Killing Us Softly 4: Advertising's Image of Women_](http://www.mediaed.org/cgi-bin/commerce.cgi?preadd=action&key=241)
+Screening: {{% resource_link "6fee551a-3320-41eb-a0ad-2ba6b2fdfac0" "*Killing Us Softly 4: Advertising's Image of Women*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Distribute: Homework 11 - a gender analysis of a TV show
@@ -214,10 +214,10 @@ Due: Revision of Essay 1 + cover letter
 
 Crossing Gender Boundaries
 
-Screening: [_Ma Vie en Rose_](http://www.imdb.com/title/tt0119590/?ref_=fn_al_tt_1)
+Screening: {{% resource_link "c26f894d-9d3b-45d8-bda4-265e4ba202b4" "*Ma Vie en Rose*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
-Distribute: Homework 12 on _Ma Vie en Rose_
+Distribute: Homework 12 on *Ma Vie en Rose*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -226,7 +226,7 @@ Perspectives on Transgender
 
 Oral presentation
 
-_After-class Essay 2 prewrite peer review session (optional)_
+*After-class Essay 2 prewrite peer review session (optional)*
 
 {{< tdclose >}}{{< tdopen >}}
 Due: Homework 12
@@ -278,7 +278,7 @@ Due: Homework 13
 
 Gender and Work: Global Dimensions
 
-_After-class Essay 3 prewrite peer review session (optional)_
+*After-class Essay 3 prewrite peer review session (optional)*
 
 {{< tdclose >}}{{< tdopen >}}
 Due: Homework 14
@@ -291,7 +291,7 @@ Gender and Work: Global Dimensions (cont.)
 Oral presentations
 
 {{< tdclose >}}{{< tdopen >}}
-Distribute: {{% resource_link bcbe0505-4864-6870-0f96-94c7d80f425b "\"Love and Gold\" Discussion Quotes (PDF)" %}}
+Distribute: {{% resource_link "bcbe0505-4864-6870-0f96-94c7d80f425b" "\"Love and Gold\" Discussion Quotes (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
