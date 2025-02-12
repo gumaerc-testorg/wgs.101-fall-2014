@@ -3,7 +3,8 @@ content_type: resource
 description: "This resource contains information related to interpreting classic american\
   \ women\u2019s rights documents: seneca falls convention and \u201Cthe declaration\
   \ of sentiments\u201D (1848)."
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/9d5c93f399490e0eb57aada80e7e91bf_MITWGS_101F14_Sess3.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/9d5c93f399490e0eb57aada80e7e91bf_MITWGS_101F14_Sess3.pdf
+file_size: 95759
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

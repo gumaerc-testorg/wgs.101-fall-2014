@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains information related to resistance or illness?:
   discourses of women, medicine and madness in 19th century america and beyond.'
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/2e67d1eab9313340fd0dab6fda29fd7d_MITWGS_101F14_Sess8.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/2e67d1eab9313340fd0dab6fda29fd7d_MITWGS_101F14_Sess8.pdf
+file_size: 315521
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

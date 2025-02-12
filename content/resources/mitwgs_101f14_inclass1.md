@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information related to the MIT seal controversy.
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/1c5879e10b4a9f4c67c0a48d56ab72b4_MITWGS_101F14_InClass1.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/1c5879e10b4a9f4c67c0a48d56ab72b4_MITWGS_101F14_InClass1.pdf
+file_size: 127563
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

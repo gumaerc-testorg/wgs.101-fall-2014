@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information related to sexualities and gender;
   the right to marriage.
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/f9f5f92a201b5b9fa96cd6a1c15ca14d_MITWGS_101F14_Sess18.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/f9f5f92a201b5b9fa96cd6a1c15ca14d_MITWGS_101F14_Sess18.pdf
+file_size: 100246
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

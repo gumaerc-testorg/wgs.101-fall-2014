@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information related to the emergence of movements
   for gender equality.
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/688634139fb04886b279d68d8d44379e_MITWGS_101F14_InClass2.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/688634139fb04886b279d68d8d44379e_MITWGS_101F14_InClass2.pdf
+file_size: 176485
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information related to socialization and gender
   roles; conceptualizing the meaning of biological differences.
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/1b857dac01d63bd1fea7a718512e0c07_MITWGS_101F14_Sess14.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/1b857dac01d63bd1fea7a718512e0c07_MITWGS_101F14_Sess14.pdf
+file_size: 97266
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

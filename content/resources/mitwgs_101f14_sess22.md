@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information related to Gender and Work.
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/e42e3c2d0ebd052ec025d8f4ab4e37e8_MITWGS_101F14_Sess22.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/e42e3c2d0ebd052ec025d8f4ab4e37e8_MITWGS_101F14_Sess22.pdf
+file_size: 221296
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

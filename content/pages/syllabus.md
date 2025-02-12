@@ -54,7 +54,7 @@ Upon successful completion of this course, students should be able to:
 Required Readings
 -----------------
 
-Gilman, Charlotte Perkins. {{% resource_link "0eef7502-a938-4bac-9b5c-16ae44a92526" "_The Yellow Wallpaper_" %}}. 1892.Taylor, Verta, Nancy Whittier, and Leila J. Rupp, eds. _Feminist Frontiers_. 9th ed. McGraw Hill Humanities, 2011. ISBN: 9780078026621.
+Gilman, Charlotte Perkins. [_The Yellow Wallpaper_](http://web.archive.org/web/20081026180517/http://etext.lib.virginia.edu/toc/modeng/public/GilYell.html). 1892.Taylor, Verta, Nancy Whittier, and Leila J. Rupp, eds. _Feminist Frontiers_. 9th ed. McGraw Hill Humanities, 2011. ISBN: 9780078026621.
 
 Schneir, Miriam, ed. _Feminism in Our Time: The Essential Writings, World War II to the Present_. Vintage Books, 1994. ISBN: 9780679745082.
 
@@ -65,7 +65,7 @@ Course Requirements
 
 _Introduction to Women's and Gender Studies_, as a CI-H ![](/images/educator/icon-question-cih.png) subject, conforms to the following guidelines:
 
-Communication-intensive (CI) subjects in HASS ![](/images/educator/icon-question-hass.png) require, by the end of term, at least 5,000 words of writing divided among 3–5 assignments. (The font is 12-point Times New Roman, double-spaced with one-inch margins; one page equals 250 words.) At least one major assignment should be revised and resubmitted. In WGS.101, your first essay will be submitted as a first version and then revised to meet this requirement. In HASS-CI courses, students are also assessed in the area of oral communication (discussion, class participation and oral presentations). See MIT's {{% resource_link "b706ab0f-bf02-4335-8fa7-178d42b98411" "Undergraduate Communication Requirement" %}} for more information.
+Communication-intensive (CI) subjects in HASS ![](/images/educator/icon-question-hass.png) require, by the end of term, at least 5,000 words of writing divided among 3–5 assignments. (The font is 12-point Times New Roman, double-spaced with one-inch margins; one page equals 250 words.) At least one major assignment should be revised and resubmitted. In WGS.101, your first essay will be submitted as a first version and then revised to meet this requirement. In HASS-CI courses, students are also assessed in the area of oral communication (discussion, class participation and oral presentations). See MIT's [Undergraduate Communication Requirement](http://web.mit.edu/commreq/) for more information.
 
 Evaluation / Grading
 --------------------
@@ -170,7 +170,7 @@ Throughout the semester, I will encourage student writers to:
 Writing Center; Writing and Communication Resources
 ---------------------------------------------------
 
-In addition to consulting with the writing advisor, you can visit the {{% resource_link "d6d99f1e-2b6f-4552-a6b8-9bfd2e17374d" "Writing and Communication Center" %}} for help with your writing for the course. The Center offers free one-on-one professional advice from lecturers who are published writers about all types of academic, creative, and professional writing and about all aspects of oral presentations. To access many pages of advice about writing and oral presentations, go to Comparative Media Studies / Writing's {{% resource_link "3b68b03d-93f0-42eb-a191-163c4891da1c" "Links" %}} page.  
+In addition to consulting with the writing advisor, you can visit the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) for help with your writing for the course. The Center offers free one-on-one professional advice from lecturers who are published writers about all types of academic, creative, and professional writing and about all aspects of oral presentations. To access many pages of advice about writing and oral presentations, go to Comparative Media Studies / Writing's [Links](http://cmsw.mit.edu/writing-and-communication-center/links/) page.  
 
 Policy on Academic Integrity
 ----------------------------
@@ -179,4 +179,4 @@ Academic integrity is the foundation of all scholarship, because being able to t
 
 As members of this class and the larger scholarly community, you are expected to abide by the norms of academic integrity. Everything you submit must be your own work, written specifically for this class. While a good deal of collaboration is encouraged in and out of class, all sources—of ideas as well as words and images—must be acknowledged according to the conventions of academic citation. Willful disregard for these conventions—i.e., plagiarism—can result in withdrawal from the course with a grade of F, and / or suspension or expulsion from the Institute.
 
-The booklet, {{% resource_link "e42d75ae-9c7f-41c4-a6ec-29519db7f189" "_Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF)_" %}}, explains these issues in detail, and you are responsible for understanding its contents. You can also visit the {{% resource_link "577976e6-d2b7-4a13-93db-f44d5860b04f" "Academic Integrity at MIT" %}} website. We will also work on citing sources in class and discuss ways to acknowledge them properly. When in doubt, consult with me or with the writing advisor.
+The booklet, [_Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF)_](http://web.mit.edu/academicintegrity/handbook/handbook.pdf), explains these issues in detail, and you are responsible for understanding its contents. You can also visit the [Academic Integrity at MIT](http://integrity.mit.edu/) website. We will also work on citing sources in class and discuss ways to acknowledge them properly. When in doubt, consult with me or with the writing advisor.

@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information related to representation of gender
   in advertising and popular visual media.
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/1e9b307f9b427cbd216fdd175097871c_MITWGS_101F14_Hwork11.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/1e9b307f9b427cbd216fdd175097871c_MITWGS_101F14_Hwork11.pdf
+file_size: 219989
 file_type: application/pdf
 learning_resource_types:
 - Assignments

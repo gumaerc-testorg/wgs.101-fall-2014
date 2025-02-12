@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information related to introduction to course
   and field of women's and gender studies.
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/66771b862bbb6c508e9971648a790274_MITWGS_101F14_Hwork1.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/66771b862bbb6c508e9971648a790274_MITWGS_101F14_Hwork1.pdf
+file_size: 233429
 file_type: application/pdf
 learning_resource_types:
 - Assignments

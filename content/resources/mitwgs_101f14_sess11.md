@@ -3,7 +3,8 @@ content_type: resource
 description: "This resource contains information related to beyond suffrage: The roots\
   \ of the second wave of the american women\u2019s rights movement: world war II\
   \ and postwar era (cont.)."
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/91eb2611ec14b5aaa6ce1f3c79fbac2f_MITWGS_101F14_Sess11.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/91eb2611ec14b5aaa6ce1f3c79fbac2f_MITWGS_101F14_Sess11.pdf
+file_size: 98691
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

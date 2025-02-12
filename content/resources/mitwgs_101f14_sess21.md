@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information related to sexuality, contraception
   and reproductive choice.
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/0aba684651ab5fd9996d668d9330e4fe_MITWGS_101F14_Sess21.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/0aba684651ab5fd9996d668d9330e4fe_MITWGS_101F14_Sess21.pdf
+file_size: 208961
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

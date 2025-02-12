@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information related to friedan and the life and
   times of rosie the river .
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/39401330da33baa5b3d760fa049118e5_MITWGS_101F14_Hwork7.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/39401330da33baa5b3d760fa049118e5_MITWGS_101F14_Hwork7.pdf
+file_size: 139284
 file_type: application/pdf
 learning_resource_types:
 - Assignments

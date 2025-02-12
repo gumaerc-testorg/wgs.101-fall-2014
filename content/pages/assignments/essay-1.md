@@ -43,6 +43,6 @@ Revision
 *   Due between sessions 18 and 19
 *   Length: 6–7 pages (1500–1750 words)
 *   Attach a new cover letter describing revision changes
-*   **Bold changes from the first version**. Revisions should include at least **250 words** different from or added to the original. In revision, you also are encouraged to include images or facts from the online Museum exhibit section on our class site (e.g., {{% resource_link "94ce13fa-4e76-4a6c-bb94-1c10ac066e53" "Women's Rights National Historical Park" %}}).
+*   **Bold changes from the first version**. Revisions should include at least **250 words** different from or added to the original. In revision, you also are encouraged to include images or facts from the online Museum exhibit section on our class site (e.g., [Women's Rights National Historical Park](http://www.nps.gov/wori/index.htm)).
 
 **Note:** You are encouraged to schedule a conference with the writing advisor at some point in your writing and revising process: pre-writing / brainstorming, outlining, drafting a first version, or revising the essay.

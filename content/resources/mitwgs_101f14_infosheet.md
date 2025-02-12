@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains information related to introduction to women''s
   and gender studies: course information sheet.'
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/4bdca4a54bc9ed067e0d68d93552142d_MITWGS_101F14_InfoSheet.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/4bdca4a54bc9ed067e0d68d93552142d_MITWGS_101F14_InfoSheet.pdf
+file_size: 121704
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

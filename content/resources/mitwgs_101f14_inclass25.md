@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information related to Susan Moller Okin's "is
   multiculturalism bad for women?".
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/006c8f33516baa5efa53b60be23cec7e_MITWGS_101F14_InClass25.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/006c8f33516baa5efa53b60be23cec7e_MITWGS_101F14_InClass25.pdf
+file_size: 465687
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

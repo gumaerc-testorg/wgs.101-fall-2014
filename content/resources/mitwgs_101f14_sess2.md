@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource contains information related to the roots of contemporary\
   \ fender debates: the 19th century american women\u2019s rights movement."
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/49011611bc6037d79ffe8ed038d6c451_MITWGS_101F14_Sess2.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/49011611bc6037d79ffe8ed038d6c451_MITWGS_101F14_Sess2.pdf
+file_size: 126043
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

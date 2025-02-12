@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains information related to gender and work: global
   dimensions.'
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/3c4b9daad507214be4b17593490f46b1_MITWGS_101F14_Sess24.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/3c4b9daad507214be4b17593490f46b1_MITWGS_101F14_Sess24.pdf
+file_size: 97384
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

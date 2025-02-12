@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource contains information related to the second wave of women\u2019\
   s rights activism (1963-present)."
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/5d0c34921504b1e9599acaa50b58bd0b_MITWGS_101F14_Sess12.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/5d0c34921504b1e9599acaa50b58bd0b_MITWGS_101F14_Sess12.pdf
+file_size: 115096
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

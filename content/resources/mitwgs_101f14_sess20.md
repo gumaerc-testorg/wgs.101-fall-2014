@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information related to perspectives on transgender.
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/c02f273fcbc76e9bf38a7e7317ff2904_MITWGS_101F14_Sess20.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/c02f273fcbc76e9bf38a7e7317ff2904_MITWGS_101F14_Sess20.pdf
+file_size: 95999
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information related to crossing gender boundaries.
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/d072cd5d3114d273c6d934af4223eeab_MITWGS_101F14_Hwork12.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/d072cd5d3114d273c6d934af4223eeab_MITWGS_101F14_Hwork12.pdf
+file_size: 122560
 file_type: application/pdf
 learning_resource_types:
 - Assignments

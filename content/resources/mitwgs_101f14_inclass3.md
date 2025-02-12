@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information related to "the declaration of sentiments
   and resolutions" (1848).
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/ce62ae0580fc740bacc3f32300799f62_MITWGS_101F14_InClass3.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/ce62ae0580fc740bacc3f32300799f62_MITWGS_101F14_InClass3.pdf
+file_size: 117437
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

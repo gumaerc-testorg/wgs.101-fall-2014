@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information related to gender, race and suffrage
   (cont.).
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/07a434cc2a478ae5222001340fc29234_MITWGS_101F14_Sess7.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/07a434cc2a478ae5222001340fc29234_MITWGS_101F14_Sess7.pdf
+file_size: 259266
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

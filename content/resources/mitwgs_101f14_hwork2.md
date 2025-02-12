@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains information related to the roots of contemporary
   gender debates: the 19th century American women''s rights movement.'
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/d39b67f6f157b5b171ec17876eef97fd_MITWGS_101F14_Hwork2.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/d39b67f6f157b5b171ec17876eef97fd_MITWGS_101F14_Hwork2.pdf
+file_size: 66145
 file_type: application/pdf
 learning_resource_types:
 - Assignments

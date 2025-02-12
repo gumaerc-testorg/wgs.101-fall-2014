@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information related to women's and gender studies:our
   costume.
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/ecea31b11b19afa9441d92aaecbf220c_MITWGS_101F14_OurCostume.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/ecea31b11b19afa9441d92aaecbf220c_MITWGS_101F14_OurCostume.pdf
+file_size: 56079
 file_type: application/pdf
 learning_resource_types:
 - Readings

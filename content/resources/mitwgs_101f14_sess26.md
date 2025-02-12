@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains information related to global issues: contemporary
   gender equality issues and movements; course wrap-up.'
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/e37abeca2923c432d051e8a260d02c55_MITWGS_101F14_Sess26.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/e37abeca2923c432d051e8a260d02c55_MITWGS_101F14_Sess26.pdf
+file_size: 257406
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains information related to socialization: race, ethnicity,
   nationality and gender roles; gender and education.'
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/9df8d3f053bd5c5bf98e6bc8421e7b87_MITWGS_101F14_Sess15.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/9df8d3f053bd5c5bf98e6bc8421e7b87_MITWGS_101F14_Sess15.pdf
+file_size: 373568
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

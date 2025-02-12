@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information related to gender, race and suffrage.
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/9328e17d42ba17ce0bd951f82c7101a9_MITWGS_101F14_Hwork6.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/9328e17d42ba17ce0bd951f82c7101a9_MITWGS_101F14_Hwork6.pdf
+file_size: 146824
 file_type: application/pdf
 learning_resource_types:
 - Assignments

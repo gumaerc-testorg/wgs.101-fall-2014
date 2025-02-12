@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/cf912e5b36a2747ee41540dd823917d2_WGS-101J_stat-students.png
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/cf912e5b36a2747ee41540dd823917d2_WGS-101J_stat-students.png
+file_size: 3681
 file_type: image/png
 image_metadata:
   caption: ''

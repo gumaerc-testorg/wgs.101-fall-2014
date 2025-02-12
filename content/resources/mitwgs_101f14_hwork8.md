@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This resource contains information related to '
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/2cdf06cddac135d71ad9f17da806d35b_MITWGS_101F14_Hwork8.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/2cdf06cddac135d71ad9f17da806d35b_MITWGS_101F14_Hwork8.pdf
+file_size: 102862
 file_type: application/pdf
 learning_resource_types:
 - Assignments
