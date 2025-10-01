@@ -86,7 +86,7 @@ Due: Homework 4
 
 Gender, Race and Suffrage (cont.)
 
-Screening: [*Ida B. Wells: A Passion for Justice*](http://newsreel.org/video/IDA-B-WELLS)
+Screening: {{% resource_link "3f56fa30-84fd-4c7e-a844-9c93c59331b3" "*Ida B. Wells: A Passion for Justice*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Distribute: Homework 5 on *Ida B. Wells: A Passion for Justice*
@@ -112,7 +112,7 @@ Due: Homework 6
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Screening: [*The Life and Times of Rosie the Riveter*](https://www.imdb.com/title/tt0081053/)
+Screening: {{% resource_link "be57b877-69a0-40b4-9786-01d525730863" "*The Life and Times of Rosie the Riveter*" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 Distribute: Homework 7 on Friedan and *The Life and Times of Rosie the River*
@@ -128,7 +128,7 @@ Beyond Suffrage: The Roots of the Second Wave of the American Women's Rights Mov
 Distribute:
 
 - Homework 8 on feminism
-- [Maslow's Hierarchy of Needs](http://www.businessballs.com/images/maslow_hierarchy.htm)
+- {{% resource_link "c1bcf5d3-1977-4dfb-8e14-dc7cdd430814" "Maslow's Hierarchy of Needs" %}}
 
 Due: Homework 7
 
@@ -144,7 +144,7 @@ Due: Homework 8
 
 The Second Wave of Women's Rights Activism (1963-present)
 
-Screening: [*Sisters of '77*](http://www.pbs.org/independentlens/sistersof77/)
+Screening: {{% resource_link "319328ab-a70e-4e73-972f-7334183d3b1a" "*Sisters of '77*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Distribute: Homework 9 on *Sisters of '77*
@@ -188,7 +188,7 @@ No assignments distributed or due
 
 Representation of Gender in Advertising and Popular Visual Media
 
-Screening: [*Killing Us Softly 4: Advertising's Image of Women*](http://www.mediaed.org/cgi-bin/commerce.cgi?preadd=action&key=241)
+Screening: {{% resource_link "9873f25b-6934-4ef7-a9f2-f61250823c08" "*Killing Us Softly 4: Advertising's Image of Women*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Distribute: Homework 11 - a gender analysis of a TV show
@@ -214,7 +214,7 @@ Due: Revision of Essay 1 + cover letter
 
 Crossing Gender Boundaries
 
-Screening: [*Ma Vie en Rose*](http://www.imdb.com/title/tt0119590/?ref_=fn_al_tt_1)
+Screening: {{% resource_link "7d59c125-d03e-42ab-b98a-2bc86b5a97f7" "*Ma Vie en Rose*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Distribute: Homework 12 on *Ma Vie en Rose*
