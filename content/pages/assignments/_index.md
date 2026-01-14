@@ -139,7 +139,7 @@ Due: Homework 4
 
 Gender, Race and Suffrage (cont.)
 
-Screening: {{% resource_link "3f56fa30-84fd-4c7e-a844-9c93c59331b3" "_Ida B. Wells: A Passion for Justice_" %}}
+Screening: [_Ida B. Wells: A Passion for Justice_](http://newsreel.org/video/IDA-B-WELLS)
 
 
 {{< tdclose >}}
@@ -186,7 +186,7 @@ Due: Homework 6
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Screening: {{% resource_link "2e707bc3-be43-4048-afc9-6efdd45f1065" "_The Life and Times of Rosie the Riveter_" %}}
+Screening: [_The Life and Times of Rosie the Riveter_](http://clarityfilms.org/rosie.html)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -238,7 +238,7 @@ Due: Homework 8
 
 The Second Wave of Women's Rights Activism (1963-present)
 
-Screening: {{% resource_link "319328ab-a70e-4e73-972f-7334183d3b1a" "_Sisters of '77_" %}}
+Screening: [_Sisters of '77_](http://www.pbs.org/independentlens/sistersof77/)
 
 
 {{< tdclose >}}
@@ -312,7 +312,7 @@ No assignments distributed or due
 
 Representation of Gender in Advertising and Popular Visual Media
 
-Screening: {{% resource_link "9873f25b-6934-4ef7-a9f2-f61250823c08" "_Killing Us Softly 4: Advertising's Image of Women_" %}}
+Screening: [_Killing Us Softly 4: Advertising's Image of Women_](http://www.mediaed.org/cgi-bin/commerce.cgi?preadd=action&key=241)
 
 
 {{< tdclose >}}
@@ -358,7 +358,7 @@ Due: Revision of Essay 1 + cover letter
 
 Crossing Gender Boundaries
 
-Screening: {{% resource_link "7d59c125-d03e-42ab-b98a-2bc86b5a97f7" "_Ma Vie en Rose_" %}}
+Screening: [_Ma Vie en Rose_](http://www.imdb.com/title/tt0119590/?ref_=fn_al_tt_1)
 
 
 {{< tdclose >}}
