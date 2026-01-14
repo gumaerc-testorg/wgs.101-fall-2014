@@ -31,9 +31,9 @@ No readings assigned
 The Roots of Contemporary Gender Debates: The 19{{< sup "th" >}} Century American Women's Rights Movement
 {{< tdclose >}}{{< tdopen >}}
 
-Boydston, Jeanne. "{{% resource_link "d2c626f5-0b7e-4462-8b7f-556750909b16" "The Cult of True Womanhood" %}}."
+Boydston, Jeanne. "[The Cult of True Womanhood](http://www.pbs.org/stantonanthony/resources/index.html?body=culthood.html)."
 
-Grimke, Angelina. "{{% resource_link "4231bdd1-8861-4e4a-afb2-0a2cbc715ed4" "Human Rights Not Founded on Sex" %}}." In *Letters to Catherine Beecher*. Isaac Knapp, 1838.
+Grimke, Angelina. "[Human Rights Not Founded on Sex](http://utc.iath.virginia.edu/abolitn/abesaegb5t.html)." In *Letters to Catherine Beecher*. Isaac Knapp, 1838.
 
 Davis, Angela. "The Anti-Slavery Movement and the Birth of Women's Rights." Chapter 2 in *Women, Race and Class*. New York, NY: Vintage Books, 1983, pp. 30-45. ISBN: 9780394713519.
 
@@ -43,17 +43,17 @@ Davis, Angela. "The Anti-Slavery Movement and the Birth of Women's Rights." Chap
 Interpreting Classic American Women's Rights Documents: Seneca Falls Convention and "The Declaration of Sentiments" (1848)
 {{< tdclose >}}{{< tdopen >}}
 
-Jefferson, Thomas. "{{% resource_link "bcf30e9b-d214-45c4-95cd-7587c9b10d26" "The Declaration of Independence" %}}." July 4, 1776.
+Jefferson, Thomas. "[The Declaration of Independence](http://www.archives.gov/exhibits/charters/declaration_transcript.html)." July 4, 1776.
 
-Stanton, Elizabeth Cady. "{{% resource_link "c802cb45-fc1c-4f79-b00b-fe1132c65bd6" "Declaration of Sentiments" %}}." Women's Rights Convention, Seneca Falls, New York, 1848.
+Stanton, Elizabeth Cady. "[Declaration of Sentiments](https://www.nps.gov/wori/learn/historyculture/declaration-of-sentiments.htm)." Women's Rights Convention, Seneca Falls, New York, 1848.
 
-Stone, Lucy, and Henry Blackwell. "{{% resource_link "83586fdf-eb72-4ae9-a29f-1491d65895f6" "Marriage Agreement" %}}." 1855.
+Stone, Lucy, and Henry Blackwell. "[Marriage Agreement](http://womenshistory.about.com/library/etext/bl_marriage_stone_blackwell.htm)." 1855.
 
 Stanton, Elizabeth Cady. {{% resource_link "ecea31b1-1b19-afa9-441d-92aaecbf220c" "\"Our Costume.\" (PDF)" %}}. *The Lily* 4 (1851): 31.
 
-———. "{{% resource_link "8400394c-ced8-4b34-b34a-d422501a0318" "The Solitude of Self" %}}." *Woman's Journal*, January 23, 1892.
+———. "[The Solitude of Self](https://finallyfeminism101.wordpress.com/2007/06/21/elizabeth-cady-stanton-the-solitude-of-self-1892/)." *Woman's Journal*, January 23, 1892.
 
-Douglass, Frederick. "Why I Became a 'Woman's Rights Man'." In *Life and Times of Frederick Douglass, Written by Himself*. CreateSpace Independent Publishing Platform, 2012 (reprinted from the revised edition of 1892). ISBN: 9781479385393. (The e-text of the {{% resource_link "bdba7d30-f3c8-46b4-8049-3d50631806fc" "*Life and Times of Frederick Douglass*" %}} is also available from the University of North Carolina at Chapel Hill.)
+Douglass, Frederick. "Why I Became a 'Woman's Rights Man'." In *Life and Times of Frederick Douglass, Written by Himself*. CreateSpace Independent Publishing Platform, 2012 (reprinted from the revised edition of 1892). ISBN: 9781479385393. (The e-text of the [*Life and Times of Frederick Douglass*](http://docsouth.unc.edu/neh/dougl92/menu.html) is also available from the University of North Carolina at Chapel Hill.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -65,17 +65,17 @@ Gender, Race and Suffrage
 
 {{< tdclose >}}{{< tdopen >}}
 
-Anthony, Susan B. "{{% resource_link "1b20cdff-a74a-4814-b248-a9d1615153c9" "Constitutional Argument: Speech After Being Convicted for Voting in the 1872 Presidential Election" %}}." 1872.
+Anthony, Susan B. "[Constitutional Argument: Speech After Being Convicted for Voting in the 1872 Presidential Election](http://gos.sbc.edu/a/anthony.html)." 1872.
 
-Douglass, Frederick. "{{% resource_link "f5a3300e-d466-4d82-99b9-f34036971719" "Appeal to Congress for Impartial Suffrage" %}}." *The Atlantic*, January 1867.
+Douglass, Frederick. "[Appeal to Congress for Impartial Suffrage](http://www.theatlantic.com/magazine/archive/1867/01/an-appeal-to-congress-for-impartial-suffrage/306547/)." *The Atlantic*, January 1867.
 
-Truth, Sojourner. "{{% resource_link "3f91d34c-7254-419a-88c8-ddef350f6bc7" "Ain't I a Woman" %}}?" December 1851.
+Truth, Sojourner. "[Ain't I a Woman](http://www.fordham.edu/halsall/mod/sojtruth-woman.html)?" December 1851.
 
-Plowshares Media. "Sojourner Truth – Ain't I a Woman." Performed by Kerry Washington. Vimeo. Accessed March 6, 2015. {{% resource_link "d511b5c5-e295-4006-b7ae-2c9be5111498" "https://vimeo.com/15268513" %}}
+Plowshares Media. "Sojourner Truth – Ain't I a Woman." Performed by Kerry Washington. Vimeo. Accessed March 6, 2015. [https://vimeo.com/15268513](https://vimeo.com/15268513)
 
-"{{% resource_link "d9b4f270-6c82-4fe5-adcb-850db7ee4dfd" "Alfre Woodard Reads Sojourner Truth" %}}." YouTube.
+"[Alfre Woodard Reads Sojourner Truth](https://www.youtube.com/watch?v=4vr_vKsk_h8)." YouTube.
 
-Cooper, Anna Julia. "{{% resource_link "c388ceda-846a-400f-8db3-8e95714cf3df" "Woman's Cause is One and Universal" %}}." 1893.
+Cooper, Anna Julia. "[Woman's Cause is One and Universal](http://www.blackpast.org/1893-anna-julia-cooper-womens-cause-one-and-universal)." 1893.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -83,7 +83,7 @@ Cooper, Anna Julia. "{{% resource_link "c388ceda-846a-400f-8db3-8e95714cf3df" "W
 
 Gender, Race and Suffrage (cont.)
 
-Screening: {{% resource_link "3f56fa30-84fd-4c7e-a844-9c93c59331b3" "*Ida B. Wells: A Passion for Justice*" %}}
+Screening: [*Ida B. Wells: A Passion for Justice*](http://newsreel.org/video/IDA-B-WELLS)
 
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned
@@ -99,7 +99,7 @@ Smith-Rosenberg, Carroll. "The Hysterical Woman: Sex Roles and Role Conflict in 
 Resistance or Illness?: Discourses of Women, Medicine and Madness in 19{{< sup "th" >}} Century America and Beyond
 {{< tdclose >}}{{< tdopen >}}
 
-Gilman, Charlotte Perkins. {{% resource_link "e12ddae0-fc3e-47fc-af17-3804e8a54eae" "*The Yellow Wallpaper*" %}}. 1892.
+Gilman, Charlotte Perkins. [*The Yellow Wallpaper*](http://etext.virginia.edu/toc/modeng/public/GilYell.html). 1892.
 
 ### Recommended
 
@@ -114,7 +114,7 @@ Hedges, Elaine R. "'Out at Last'? 'The Yellow Wallpaper' After Two Decades of Fe
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Screening: {{% resource_link "be57b877-69a0-40b4-9786-01d525730863" "*The Life and Times of Rosie the Riveter*" %}}
+Screening: [*The Life and Times of Rosie the Riveter*](https://www.imdb.com/title/tt0081053/)
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -128,14 +128,14 @@ Friedan, Betty. "The Problem That Has No Name." In *The Feminine Mystique*. W. W
 {{< tdclose >}}{{< tdopen >}}
 Beyond Suffrage: The Roots of the Second Wave of the American Women's Rights Movement: World War II and Postwar Era (cont.)
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "6c1d958e-4d69-474d-92d7-7186bb49f688" "National Organization for Women (N.O.W.) Statement of Purpose" %}}, 1966.
+[National Organization for Women (N.O.W.) Statement of Purpose](https://now.org/about/history/statement-of-purpose/), 1966.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12 and 13
 {{< tdclose >}}{{< tdopen >}}
 
 The Second Wave of Women's Rights Activism (1963-present)
 
-Screening: {{% resource_link "319328ab-a70e-4e73-972f-7334183d3b1a" "*Sisters of '77*" %}}
+Screening: [*Sisters of '77*](http://www.pbs.org/independentlens/sistersof77/)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -185,7 +185,7 @@ Socialization: Race, Ethnicity, Nationality and Gender Roles; Gender and Educati
 
 \[FF\] Thorne, Barrie. "Girls and Boys Together…but Mostly Apart: Gender Arrangements in Elementary Schools."
 
-Weil, Elizabeth. "{{% resource_link "eeac8f00-f726-4e75-b8d2-0c5dbce45a88" "Teaching Boys and Girls Separately" %}}," *New York Times*, March 2, 2008.
+Weil, Elizabeth. "[Teaching Boys and Girls Separately](http://www.nytimes.com/2008/03/02/magazine/02sex3-t.html?_r=3&)," *New York Times*, March 2, 2008.
 
 Feinberg, Leslie. "Allow Me To Introduce Myself." In *Trans Liberation: Beyond Pink or Blue*. Beacon Press, 1999. ISBN: 9780807079515.
 
@@ -195,7 +195,7 @@ Feinberg, Leslie. "Allow Me To Introduce Myself." In *Trans Liberation: Beyond P
 
 Representation of Gender in Advertising and Popular Visual Media
 
-Screening: {{% resource_link "9873f25b-6934-4ef7-a9f2-f61250823c08" "*Killing Us Softly 4: Advertising's Image of Women*" %}}
+Screening: [*Killing Us Softly 4: Advertising's Image of Women*](http://www.mediaed.org/cgi-bin/commerce.cgi?preadd=action&key=241)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -205,7 +205,7 @@ Screening: {{% resource_link "9873f25b-6934-4ef7-a9f2-f61250823c08" "*Killing Us
 
 \[FF\] Banks, Ingrid. "Hair Still Matters."
 
-Onishi, Norimitsu. "{{% resource_link "5ffbf1ef-1ba1-4ce2-b005-7f0f83c04257" "Lagos Journal; Globalization of Beauty Makes Slimness Trendy" %}}," *New York Times*, October 3, 2002.
+Onishi, Norimitsu. "[Lagos Journal; Globalization of Beauty Makes Slimness Trendy](http://www.nytimes.com/2002/10/03/world/lagos-journal-globalization-of-beauty-makes-slimness-trendy.html?pagewanted=1)," *New York Times*, October 3, 2002.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -215,9 +215,9 @@ Sexualities and Gender; The Right to Marriage
 
 \[FIOT\] Rich, Adrienne. "Compulsory Heterosexuality and Lesbian Existence."
 
-Naples, Nancy A. "{{% resource_link "84e07fae-915c-4256-9ef7-fa536f2f7469" "Queer Parenting in the New Millennium" %}}." *Gender & Society* 18, no. 6 (2004): 679–84.
+Naples, Nancy A. "[Queer Parenting in the New Millennium](http://dx.doi.org/10.1177/0891243204269396)." *Gender & Society* 18, no. 6 (2004): 679–84.
 
-{{% resource_link "e843216f-84fa-4646-ae02-1f67ad0b3af3" "Hillary Goodridge & others vs. Department of Public Health & another" %}}, Supreme Judicial Court of Massachusetts, November 18, 2003.
+[Hillary Goodridge & others vs. Department of Public Health & another](http://law2.umkc.edu/faculty/projects/FTrials/conlaw/Goodridge.html), Supreme Judicial Court of Massachusetts, November 18, 2003.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -225,15 +225,15 @@ Naples, Nancy A. "{{% resource_link "84e07fae-915c-4256-9ef7-fa536f2f7469" "Quee
 
 Crossing Gender Boundaries
 
-Screening: {{% resource_link "7d59c125-d03e-42ab-b98a-2bc86b5a97f7" "*Ma Vie en Rose*" %}}
+Screening: [*Ma Vie en Rose*](http://www.imdb.com/title/tt0119590/?ref_=fn_al_tt_1)
 
 {{< tdclose >}}{{< tdopen >}}
 
 \[FF\] Kessler, Suzanne. "The Medical Construction of Gender."
 
-Fausto-Sterling, Anne. "{{% resource_link "b2bf0685-8e23-4396-9a5d-3ae610e6692c" "The Five Sexes: Why Male and Female Are Not Enough" %}}." *The Sciences* 33, no. 2 (1993): 20–5.
+Fausto-Sterling, Anne. "[The Five Sexes: Why Male and Female Are Not Enough](https://www.researchgate.net/profile/Anne_Fausto-Sterling/publication/239657377_The_Five_Sexes_Why_Male_and_Female_are_not_Enough/links/00b7d525802a725b6b000000/The-Five-Sexes-Why-Male-and-Female-are-not-Enough.pdf)." *The Sciences* 33, no. 2 (1993): 20–5.
 
-———. "{{% resource_link "0499bed9-e0dd-4622-8c63-e028e2af10da" "The Five Sexes, Revisited" %}}." *The Sciences* 40, no. 4 (2000): 18–23.
+———. "[The Five Sexes, Revisited](http://dx.doi.org/10.1002/j.2326-1951.2000.tb03504.x)." *The Sciences* 40, no. 4 (2000): 18–23.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -249,7 +249,7 @@ Wilchins, Riki. "17 Things You DON'T Say to a Transsexual." In *Read My Lips: Se
 
 ———. "What Does it Cost to Tell the Truth?" In *Read My Lips: Sexual Subversion and the End of Gender*. Riverdale Avenue Books, 2013. ISBN: 9781936833641.
 
-Franke, Katherine. {{% resource_link "c0221935-1747-453f-a54f-64aef735e092" "\"Legal Aspects of Sex Reassignment Surgery,\" (PDF)" %}} Columbia University School of Law.
+Franke, Katherine. ["Legal Aspects of Sex Reassignment Surgery," (PDF)](http://www2.law.columbia.edu/faculty_franke/Gubbio%20Recent.pdf) Columbia University School of Law.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -261,9 +261,9 @@ Sexuality, Contraception and Reproductive Choice
 
 \[FF\] Smith, Andrea. "Beyond Pro-Choice Versus Pro-Life: Women of Color and Reproductive Justice."
 
-{{% resource_link "609b514c-63ad-45c0-be87-47184c508886" "People & Events: Katherine Dexter McCormick (1875–1967)" %}}, "The Pill," American Experience, PBS.
+[People & Events: Katherine Dexter McCormick (1875–1967)](http://www.pbs.org/wgbh/amex/pill/peopleevents/p_mccormick.html), "The Pill," American Experience, PBS.
 
-{{% resource_link "fe730c28-cad6-4638-be54-2eb0ab8b4ccf" "Roots of the Pill: First-Wave Feminism" %}}, "The Pill," American Experience, PBS.
+[Roots of the Pill: First-Wave Feminism](https://www.pbs.org/wgbh/americanexperience/features/roots-pill/), "The Pill," American Experience, PBS.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22 and 23
@@ -277,15 +277,15 @@ Reskin, Barbara F. *The Realities of Affirmative Action in Employment*. American
 
 \[FF\] Gerson, Kathleen. "Moral Dilemmas, Moral Strategies, and the Transformation of Gender: Lessons from Two Generations of Work and Family Change."
 
-Hegewisch, Ariane, Claudia Williams, et al. "{{% resource_link "fad37227-2407-4b86-838e-735cf0af1001" "The Gender Wage Gap: 2013; Differences by Race and Ethnicity, No Growth in Real Wages for Women" %}}," March 2014, Institute for Women's Policy Research.
+Hegewisch, Ariane, Claudia Williams, et al. "[The Gender Wage Gap: 2013; Differences by Race and Ethnicity, No Growth in Real Wages for Women](http://www.iwpr.org/publications/pubs/the-gender-wage-gap-2013-differences-by-race-and-ethnicity-no-growth-in-real-wages-for-women)," March 2014, Institute for Women's Policy Research.
 
 Kessler-Harris, Alice. "The Wage Conceived: Value and Need as Measures of a Woman's Worth." In *Feminist Frontiers*. 6th ed. Edited by Laurel Richardson, Verta Taylor, and Nancy Whittier. McGraw Hill, 2003.
 
 Padavic, Irene, and Barbara Reskin. "Moving Up and Taking Charge." In *Feminist Frontiers*. 6th ed. Edited by Laurel Richardson, Verta Taylor, and Nancy Whittier. McGraw Hill, 2003.
 
-Slaughter, Anne-Marie. "{{% resource_link "5fa52b5a-80d1-4cae-9aad-876b3436d488" "Why Women Can't Still Have It All" %}}." *The Atlantic*, July / August 2012.
+Slaughter, Anne-Marie. "[Why Women Can't Still Have It All](http://www.theatlantic.com/magazine/archive/2012/07/why-women-still-cant-have-it-all/309020/)." *The Atlantic*, July / August 2012.
 
-Kantor, Jodi. "{{% resource_link "4a956879-e2cd-4bf8-8a06-ff01a71e92ae" "Harvard Business School Case Study: Gender Equity" %}}," *New York Times*, September 7, 2013.
+Kantor, Jodi. "[Harvard Business School Case Study: Gender Equity](http://www.nytimes.com/2013/09/08/education/harvard-case-study-gender-equity.html?_r=0)," *New York Times*, September 7, 2013.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24 and 25
@@ -293,23 +293,23 @@ Kantor, Jodi. "{{% resource_link "4a956879-e2cd-4bf8-8a06-ff01a71e92ae" "Harvard
 Gender and Work: Global Dimensions
 {{< tdclose >}}{{< tdopen >}}
 
-Enloe, Cynthia. "The Globetrotting Sneaker." In *The Curious Feminist: Searching for Women in a New Age of Empire*. University of California Press, 2004. ISBN: 9780520243811. \[Preview with {{% resource_link "38761072-ecfb-4f3f-aa45-2c01a485bbbf" "Google Books" %}}\]
+Enloe, Cynthia. "The Globetrotting Sneaker." In *The Curious Feminist: Searching for Women in a New Age of Empire*. University of California Press, 2004. ISBN: 9780520243811. \[Preview with [Google Books](http://books.google.com/books?id=lCpfjtYu5wsC&pg=PA43=onepage)\]
 
 \[FF\] Hondagneu-Sotelo, Pierrette. "Maid in L. A."
 
-Pinsky, Robert. "{{% resource_link "153b160e-43fb-4234-a33a-57e3b2627919" "Shirt" %}}," Internet Poetry Archive.
+Pinsky, Robert. "[Shirt](http://www.ibiblio.org/ipa/poems/pinsky/shirt.php)," Internet Poetry Archive.
 
-Reagon, Bernice Johnson. {{% resource_link "162d839d-81ce-4444-bd1d-5da8c905d9eb" "\"Are My Hands Clean?,\" (PDF)" %}} College of San Mateo.
+Reagon, Bernice Johnson. ["Are My Hands Clean?," (PDF)](http://collegeofsanmateo.edu/integrativelearning/learningcommunities/commons/James/AreMyHandsClean.pdf) College of San Mateo.
 
 ### To Listen to the Bernice Johnson Reagon Composition
 
-#SweetHoneyInTheRock. "{{% resource_link "bbb63de2-8b10-4ee5-9015-24370dc6be14" "Are My Hands Clean?" %}}" June 7, 2015. YouTube. 
+#SweetHoneyInTheRock. "[Are My Hands Clean?](https://www.youtube.com/watch?v=2Vv60O2mk10)" June 7, 2015. YouTube. 
 
-Kristof, Nicholas. "{{% resource_link "ca4a45be-c190-4ec3-b60e-08dfea9ce2fb" "Where Sweatshops Are a Dream" %}}," *New York Times*, January 14, 2009.
+Kristof, Nicholas. "[Where Sweatshops Are a Dream](http://www.nytimes.com/2009/01/15/opinion/15kristof.html?_r=0)," *New York Times*, January 14, 2009.
 
-Yesilevsky, Anna. "{{% resource_link "640a3e37-e119-44de-9c25-5a307be38cf2" "The Case Against Sweatshops" %}}." *The Humanist* 64, no. 3 (2004): 20–46.
+Yesilevsky, Anna. "[The Case Against Sweatshops](http://www.readbag.com/thehumanist-humanist-articles-essay2mayjune04)." *The Humanist* 64, no. 3 (2004): 20–46.
 
-Okin, Susan Moller. "{{% resource_link "5e07fdce-3d69-4f14-bce3-2f06d3a9c055" "Is Multiculturalism Bad for Women?" %}}," Boston Review.
+Okin, Susan Moller. "[Is Multiculturalism Bad for Women?](http://bostonreview.net/archives/BR22.5/okin.html)," Boston Review.
 
 Hochschild, Arlie Russell. "Love and Gold." In *Global Woman: Nannies, Maids, and Sex Workers in the New Economy*. Edited by Barbara Ehrenreich and Arlie Hochschild. Holt Paperbacks, 2004. ISBN: 9780805075090.
 
@@ -319,7 +319,7 @@ Hochschild, Arlie Russell. "Love and Gold." In *Global Woman: Nannies, Maids, an
 Global Issues: Contemporary Gender Equality Issues and Movements; Course Wrap-Up
 {{< tdclose >}}{{< tdopen >}}
 
-Sen, Amartya. "{{% resource_link "710eaa9e-0a35-4aee-9026-6d48c8722026" "More than 100 Million Women Are Missing" %}}." *New York Review of Books*, December 20, 1990.
+Sen, Amartya. "[More than 100 Million Women Are Missing](http://www.nybooks.com/articles/archives/1990/dec/20/more-than-100-million-women-are-missing/)." *New York Review of Books*, December 20, 1990.
 
 \[FF\] Abu-Lughod, Lila. "Do Muslim Women Really Need Saving? Anthropological Reflections on Cultural Relativism and Its Others."
 
